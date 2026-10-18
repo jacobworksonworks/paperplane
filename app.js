@@ -6,7 +6,7 @@
     ["Extract pages","Organize","extract-pages"],["Reorder pages","Organize","reorder"],["Rotate PDF","Organize","rotate"],
     ["Reverse pages","Organize","reverse"],["Insert PDF","Organize","insert-pages"],
     ["PDF to JPG","Convert","pdf-image-jpg"],["PDF to PNG","Convert","pdf-image-png"],["PDF to WebP","Convert","pdf-image-webp"],
-    ["Images to PDF","Convert","image-pdf"],["Text to PDF","Convert","text-pdf"],["CSV to PDF","Convert","csv-pdf"],
+    ["Images to JPG","Convert","image-pdf"],["Text to PDF","Convert","text-pdf"],["CSV to PDF","Convert","csv-pdf"],
     ["PDF to text","Convert","text"],["PDF to Markdown","Convert","markdown"],["PDF to HTML","Convert","pdf-html"],
     ["PDF to CSV","Convert","pdf-csv"],["PDF to Word (text)","Convert","pdf-docx"],["Blank PDF","Convert","blank-pdf"],
     ["Watermark","Edit","watermark"],["Page numbers","Edit","page-numbers"],["Add text","Edit","add-text"],
